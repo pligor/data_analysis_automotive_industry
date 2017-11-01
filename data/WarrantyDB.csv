@@ -1,0 +1,397 @@
+Car Id,Warranty Problem,Warranty Date
+1,Vibration issue,24/07/2015
+2,Vibration issue,21/03/2014
+3,Vibration issue,26/04/2013
+4,Vibration issue,06/11/2013
+5,Vibration issue,18/04/2013
+6,Vibration issue,07/04/2014
+7,Vibration issue,13/08/2015
+8,Vibration issue,07/01/2014
+9,Vibration issue,22/06/2015
+10,Vibration issue,15/08/2013
+11,Vibration issue,16/08/2015
+12,Vibration issue,17/02/2015
+13,Vibration issue,23/02/2013
+14,Vibration issue,15/11/2014
+15,Vibration issue,27/05/2013
+16,Vibration issue,04/02/2015
+17,Vibration issue,19/02/2013
+18,Vibration issue,08/12/2014
+19,Vibration issue,26/02/2014
+20,Vibration issue,02/12/2013
+21,Vibration issue,02/07/2013
+22,Vibration issue,05/07/2013
+23,Vibration issue,02/12/2013
+24,Vibration issue,11/06/2014
+25,Vibration issue,13/02/2013
+26,Vibration issue,19/04/2013
+27,Vibration issue,21/11/2014
+28,Vibration issue,14/06/2013
+29,Vibration issue,28/02/2015
+30,Loss of control,10/04/2015
+31,Vibration issue,26/08/2013
+32,Vibration issue,13/11/2014
+33,Vibration issue,05/11/2014
+34,Vibration issue,08/01/2015
+35,Vibration issue,12/04/2013
+36,Vibration issue,08/10/2013
+37,Vibration issue,18/04/2015
+38,Vibration issue,06/02/2013
+39,Vibration issue,07/10/2014
+40,Loss of control,28/03/2015
+41,Vibration issue,22/07/2013
+42,Vibration issue,12/01/2014
+43,Vibration issue,04/02/2013
+44,Vibration issue,02/08/2015
+45,Vibration issue,07/02/2013
+46,Vibration issue,20/05/2013
+47,Vibration issue,08/09/2015
+48,Vibration issue,22/01/2014
+49,Vibration issue,01/03/2014
+50,Vibration issue,25/01/2013
+51,Vibration issue,03/08/2015
+52,Vibration issue,27/10/2014
+53,Vibration issue,02/07/2013
+54,Vibration issue,27/03/2013
+55,Vibration issue,12/05/2014
+56,Vibration issue,27/07/2013
+57,Vibration issue,12/07/2015
+58,Vibration issue,25/12/2013
+59,Vibration issue,22/04/2014
+60,Vibration issue,18/01/2014
+61,Vibration issue,02/04/2013
+62,Vibration issue,03/04/2015
+63,Vibration issue,27/03/2014
+64,Vibration issue,18/05/2014
+65,Loss of control,05/01/2014
+66,Vibration issue,15/11/2014
+67,Vibration issue,19/02/2014
+68,Vibration issue,01/02/2013
+69,Vibration issue,30/09/2014
+70,Vibration issue,28/07/2014
+71,Vibration issue,25/05/2015
+72,Vibration issue,24/03/2013
+73,Vibration issue,23/09/2015
+74,Vibration issue,25/11/2014
+75,Vibration issue,05/11/2013
+76,Vibration issue,16/01/2015
+77,Vibration issue,03/12/2013
+78,Vibration issue,06/01/2013
+79,Vibration issue,18/04/2014
+80,Vibration issue,04/07/2013
+81,Vibration issue,25/07/2015
+82,Vibration issue,20/07/2015
+83,Vibration issue,28/11/2014
+84,Vibration issue,21/02/2014
+85,Vibration issue,07/11/2013
+86,Vibration issue,25/10/2013
+87,Vibration issue,20/04/2015
+88,Vibration issue,27/03/2014
+89,Vibration issue,09/02/2014
+90,Vibration issue,31/12/2013
+91,Vibration issue,02/09/2015
+92,Vibration issue,24/05/2014
+93,Vibration issue,07/06/2015
+94,Vibration issue,04/06/2014
+95,Loss of control,13/01/2015
+96,Vibration issue,11/11/2013
+97,Vibration issue,27/07/2013
+98,Vibration issue,30/08/2013
+99,Vibration issue,24/06/2014
+100,Vibration issue,24/07/2015
+101,Vibration issue,06/03/2014
+102,Vibration issue,13/01/2013
+103,Vibration issue,13/11/2014
+104,Vibration issue,29/04/2013
+105,Vibration issue,17/03/2015
+106,Vibration issue,28/03/2014
+107,Vibration issue,12/02/2015
+108,Vibration issue,16/04/2015
+109,Vibration issue,30/04/2013
+110,Vibration issue,22/03/2014
+111,Vibration issue,10/02/2014
+112,Vibration issue,08/07/2013
+113,Vibration issue,24/02/2013
+114,Vibration issue,16/01/2013
+115,Vibration issue,04/08/2014
+116,Vibration issue,24/10/2013
+117,Vibration issue,17/02/2015
+118,Vibration issue,14/05/2015
+119,Vibration issue,01/10/2013
+120,Vibration issue,10/05/2015
+121,Vibration issue,02/04/2013
+122,Vibration issue,08/04/2013
+123,Vibration issue,26/09/2014
+124,Vibration issue,09/05/2014
+125,Vibration issue,14/09/2013
+126,Vibration issue,14/09/2013
+127,Vibration issue,09/06/2014
+128,Vibration issue,25/06/2014
+129,Vibration issue,04/12/2013
+130,Loss of control,13/08/2015
+131,Vibration issue,06/10/2014
+132,Vibration issue,26/10/2014
+133,Vibration issue,03/06/2013
+134,Vibration issue,21/04/2015
+135,Vibration issue,30/05/2013
+136,Vibration issue,15/10/2013
+137,Vibration issue,29/07/2015
+138,Vibration issue,27/07/2013
+139,Vibration issue,19/12/2013
+140,Vibration issue,04/03/2013
+141,Vibration issue,06/07/2014
+142,Vibration issue,14/03/2013
+143,Vibration issue,19/07/2013
+144,Vibration issue,05/02/2015
+145,Vibration issue,05/12/2013
+146,Vibration issue,25/12/2014
+147,Vibration issue,22/04/2015
+148,Vibration issue,20/07/2013
+149,Vibration issue,24/09/2015
+150,Vibration issue,18/05/2015
+151,Vibration issue,24/09/2013
+152,Vibration issue,05/01/2014
+153,Vibration issue,31/12/2013
+154,Vibration issue,19/11/2014
+155,Vibration issue,19/03/2013
+156,Vibration issue,14/08/2013
+157,Vibration issue,30/06/2015
+158,Vibration issue,21/09/2014
+159,Vibration issue,02/09/2013
+160,Vibration issue,21/07/2013
+161,Vibration issue,25/02/2015
+162,Vibration issue,28/07/2014
+163,Vibration issue,11/03/2015
+164,Vibration issue,07/04/2014
+165,Vibration issue,04/03/2014
+166,Vibration issue,03/01/2015
+167,Vibration issue,22/05/2015
+168,Loss of control,27/05/2013
+169,Vibration issue,30/08/2014
+170,Vibration issue,12/11/2013
+171,Vibration issue,20/11/2013
+172,Vibration issue,29/06/2013
+173,Vibration issue,07/07/2014
+174,Vibration issue,07/02/2015
+175,Vibration issue,15/01/2013
+176,Vibration issue,29/06/2015
+177,Vibration issue,28/05/2015
+178,Vibration issue,13/03/2014
+179,Vibration issue,27/12/2014
+180,Vibration issue,25/05/2013
+181,Loss of control,05/12/2013
+182,Vibration issue,07/02/2015
+183,Vibration issue,19/06/2014
+184,Vibration issue,29/07/2014
+185,Vibration issue,19/02/2014
+186,Vibration issue,21/09/2015
+187,Vibration issue,19/09/2013
+188,Vibration issue,22/07/2015
+189,Vibration issue,16/09/2015
+190,Vibration issue,18/08/2015
+191,Vibration issue,11/08/2013
+192,Vibration issue,09/08/2014
+193,Vibration issue,02/07/2014
+194,Vibration issue,31/10/2014
+195,Vibration issue,18/09/2015
+196,Vibration issue,03/11/2013
+197,Vibration issue,23/07/2014
+198,Vibration issue,19/04/2015
+199,Vibration issue,06/02/2014
+200,Vibration issue,16/12/2014
+201,Vibration issue,08/05/2014
+202,Vibration issue,16/10/2014
+203,Loss of control,01/06/2014
+204,Loss of control,17/01/2015
+205,Loss of control,27/07/2013
+206,Loss of control,06/06/2015
+207,Loss of control,07/07/2015
+208,Loss of control,28/04/2014
+209,Loss of control,20/07/2015
+210,Loss of control,04/05/2014
+211,Loss of control,30/06/2014
+212,Loss of control,08/07/2013
+213,Loss of control,14/10/2014
+214,Loss of control,03/04/2014
+215,Loss of control,21/09/2014
+216,Loss of control,09/09/2015
+217,Loss of control,23/06/2015
+218,Leak on Engine,27/09/2014
+219,Loss of control,12/10/2014
+220,Loss of control,22/09/2014
+221,Loss of control,24/10/2014
+222,Loss of control,28/05/2015
+223,Loss of control,19/08/2014
+224,Loss of control,15/06/2013
+225,Loss of control,30/11/2014
+226,Loss of control,14/04/2013
+227,Loss of control,25/04/2015
+228,Loss of control,05/01/2014
+229,Loss of control,04/09/2013
+230,Loss of control,18/02/2013
+231,Loss of control,28/12/2013
+232,Loss of control,30/08/2013
+233,Leak on Engine,29/06/2015
+234,Loss of control,28/01/2014
+235,Loss of control,28/11/2014
+236,Loss of control,03/11/2013
+237,Loss of control,20/03/2015
+238,Loss of control,07/01/2013
+239,Loss of control,16/04/2013
+240,Loss of control,11/03/2015
+241,Loss of control,06/09/2013
+242,Loss of control,08/11/2013
+243,Loss of control,19/10/2013
+244,Loss of control,08/08/2015
+245,Loss of control,18/02/2015
+246,Loss of control,25/08/2015
+247,Loss of control,13/05/2013
+248,Loss of control,21/03/2014
+249,Loss of control,01/10/2014
+250,Loss of control,21/07/2014
+251,Loss of control,04/05/2014
+252,Loss of control,10/04/2014
+253,Loss of control,09/11/2014
+254,Loss of control,04/02/2014
+255,Loss of control,04/09/2015
+256,Loss of control,13/07/2013
+257,Loss of control,25/10/2014
+258,Loss of control,05/03/2015
+259,Loss of control,17/11/2013
+260,Loss of control,24/05/2014
+261,Loss of control,29/08/2015
+262,Loss of control,18/03/2014
+263,Loss of control,19/11/2013
+264,Loss of control,11/02/2014
+265,Loss of control,15/04/2014
+266,Loss of control,07/08/2015
+267,Loss of control,04/05/2013
+268,Loss of control,11/01/2014
+269,Loss of control,09/05/2013
+270,Loss of control,28/05/2015
+271,Loss of control,11/03/2014
+272,Loss of control,08/12/2013
+273,Loss of control,14/11/2013
+274,Loss of control,30/01/2013
+275,Loss of control,07/08/2013
+276,Loss of control,30/09/2014
+277,Loss of control,04/08/2015
+278,Loss of control,27/08/2013
+279,Loss of control,26/10/2013
+280,Loss of control,27/03/2015
+281,Loss of control,03/02/2013
+282,Loss of control,23/05/2014
+283,Loss of control,12/07/2015
+284,Loss of control,28/04/2015
+285,Loss of control,17/10/2013
+286,Loss of control,13/07/2014
+287,Loss of control,07/04/2013
+288,Loss of control,23/05/2013
+289,Loss of control,28/08/2014
+290,Loss of control,16/10/2013
+291,Leak on Engine,27/04/2013
+292,Loss of control,01/09/2015
+293,Loss of control,31/07/2014
+294,Loss of control,11/09/2015
+295,Loss of control,25/11/2013
+296,Loss of control,27/06/2014
+297,Loss of control,16/10/2013
+298,Loss of control,04/07/2014
+299,Loss of control,15/03/2014
+300,Loss of control,25/02/2013
+301,Loss of control,23/03/2014
+302,Loss of control,22/09/2013
+303,Loss of control,05/08/2013
+304,Loss of control,11/07/2014
+305,Loss of control,19/02/2013
+306,Loss of control,28/06/2015
+307,Loss of control,28/10/2014
+308,Loss of control,10/11/2014
+309,Loss of control,04/05/2014
+310,Loss of control,26/08/2014
+311,Loss of control,13/01/2014
+312,Loss of control,20/03/2014
+313,Loss of control,07/01/2013
+314,Loss of control,09/08/2014
+315,Loss of control,24/09/2013
+316,Loss of control,10/02/2015
+317,Loss of control,24/11/2013
+318,Loss of control,12/12/2013
+319,Loss of control,18/04/2015
+320,Loss of control,19/11/2014
+321,Loss of control,26/11/2013
+322,Loss of control,06/03/2014
+323,Loss of control,17/04/2015
+324,Loss of control,13/12/2013
+325,Loss of control,27/01/2013
+326,Loss of control,03/02/2014
+327,Loss of control,20/10/2014
+328,Loss of control,10/04/2015
+329,Loss of control,08/12/2014
+330,Loss of control,03/11/2014
+331,Loss of control,14/06/2014
+332,Loss of control,17/08/2014
+333,Loss of control,20/09/2013
+334,Leak on Engine,02/04/2015
+335,Loss of control,08/11/2014
+336,Loss of control,04/12/2013
+337,Loss of control,02/08/2013
+338,Loss of control,23/04/2015
+339,Loss of control,27/03/2015
+340,Loss of control,06/12/2014
+341,Loss of control,07/07/2013
+342,Loss of control,02/05/2013
+343,Loss of control,10/05/2014
+344,Loss of control,18/05/2013
+345,Loss of control,19/04/2014
+346,Loss of control,21/12/2013
+347,Loss of control,23/02/2015
+348,Leak on Engine,10/11/2013
+349,Leak on Engine,22/06/2013
+350,Leak on Engine,26/06/2014
+351,Leak on Engine,18/03/2013
+352,Leak on Engine,30/01/2013
+353,Leak on Engine,03/07/2013
+354,Leak on Engine,22/02/2014
+355,Leak on Engine,06/05/2014
+356,Leak on Engine,21/02/2015
+357,Leak on Engine,20/09/2014
+358,Leak on Engine,15/09/2013
+359,Leak on Engine,03/11/2013
+360,Leak on Engine,26/04/2014
+361,Leak on Engine,31/12/2014
+362,Leak on Engine,08/08/2013
+363,Leak on Engine,17/01/2015
+364,Leak on Engine,12/04/2014
+365,Leak on Engine,15/09/2015
+366,Leak on Engine,27/03/2014
+367,Leak on Engine,14/02/2015
+368,Leak on Engine,20/06/2014
+369,Leak on Engine,20/11/2014
+370,Leak on Engine,12/08/2015
+371,Leak on Engine,10/10/2014
+372,Leak on Engine,04/09/2015
+373,Leak on Engine,08/08/2013
+374,Leak on Engine,31/07/2013
+375,Leak on Engine,12/10/2013
+376,Leak on Engine,28/06/2014
+377,Leak on Engine,17/02/2015
+378,Leak on Engine,30/07/2014
+379,Leak on Engine,27/09/2013
+380,Leak on Engine,31/12/2014
+381,Leak on Engine,27/07/2013
+382,Leak on Engine,18/03/2013
+383,Leak on Engine,05/07/2015
+384,Leak on Engine,04/12/2013
+385,Leak on Engine,21/10/2014
+386,Leak on Engine,11/06/2014
+387,Leak on Engine,06/05/2013
+388,Leak on Engine,22/08/2014
+389,Leak on Engine,19/08/2015
+390,Leak on Engine,10/01/2014
+391,Leak on Engine,18/12/2014
+392,Leak on Engine,12/06/2013
+393,Leak on Engine,16/11/2013
+394,Leak on Engine,29/05/2015
+395,Leak on Engine,27/08/2015
+396,Leak on Engine,22/01/2014
